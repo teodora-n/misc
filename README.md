@@ -1,1 +1,1 @@
-# misc
+# misc js snippets
