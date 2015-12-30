@@ -10,3 +10,4 @@
 	}
 	//Call
 	calculatePercentage('.u-pad-1-12', '.site-wrap', 8.3333);
+	
